@@ -4,19 +4,7 @@ Visual Basic Programming in MS Excel
 
 We have some sample data in Excel file. But the data are not well formatted. 
 
-Wrong Format 
------------------------------------------------------------------
-| Product Name		    		|	BP Value	|	Group Name	|
------------------------------------------------------------------
-| Absorbent cotton wool 100g  	|				| 	Woman Care 	|
------------------------------------------------------------------
-
-Right Format 
------------------------------------------------------------------
-| Product Name		    		|	BP Value	|	Group Name	|
------------------------------------------------------------------
-| Absorbent cotton wool  		|	100g 		| 	Woman Care 	|
------------------------------------------------------------------
+![Alt text](/image/screenshot.jpg?raw=true "Excel-Programming")
 
 We followed two step to solve this. 
 
