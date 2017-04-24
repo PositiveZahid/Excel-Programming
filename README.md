@@ -4,7 +4,7 @@ Visual Basic Programming in MS Excel
 
 We have some sample data in Excel file. But the data are not well formatted. 
 
-![Alt text](/image/screenshot.jpg?raw=true "Excel-Programming")
+![Excel-Programming](https://raw.githubusercontent.com/PositiveZahid/Excel-Programming/master/image/screenshot.png "Excel-Programming")
 
 We followed two step to solve this. 
 
